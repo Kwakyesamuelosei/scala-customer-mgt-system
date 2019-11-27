@@ -1,0 +1,47 @@
+products:
+   src/main/scala/io/turntabl/DAO/ClientDAO.scala -> build/classes/scala/main/io/turntabl/DAO/ClientDAO.class
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> build/classes/scala/main/io/turntabl/Implementors/ClientDAOImpl$.class
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> build/classes/scala/main/io/turntabl/Implementors/ClientDAOImpl.class
+   src/main/scala/io/turntabl/Model/Client.scala -> build/classes/scala/main/io/turntabl/Model/Client$.class
+   src/main/scala/io/turntabl/Model/Client.scala -> build/classes/scala/main/io/turntabl/Model/Client.class
+   src/main/scala/io/turntabl/Transfers/ClientTO.scala -> build/classes/scala/main/io/turntabl/Transfers/ClientTO$.class
+   src/main/scala/io/turntabl/Transfers/ClientTO.scala -> build/classes/scala/main/io/turntabl/Transfers/ClientTO.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp$delayedInit$body.class
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> build/classes/scala/main/io/turntabl/scalagettingstarted/MyApp.class
+binary dependencies:
+   src/main/scala/io/turntabl/DAO/ClientDAO.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/DAO/ClientDAO.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/io.swagger/swagger-annotations/1.5.18/f386aa7dc018534e6e05c40fff292e6cd9b9d8f8/swagger-annotations-1.5.18.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.2.1.RELEASE/d05690257d8e8034b180db3893d5baf8250fb9d3/spring-beans-5.2.1.RELEASE.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.2.1.RELEASE/b33c907cbaff98fdfe7d8707ce046e595805c795/spring-jdbc-5.2.1.RELEASE.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.1.RELEASE/4f1dfe592951c312b52de469f1940b1cb0455226/spring-web-5.2.1.RELEASE.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/3.0.0/84289d5b7674a685cc50f607b59c1d96eda427fd/jedis-3.0.0.jar
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   src/main/scala/io/turntabl/Model/Client.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/Model/Client.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   src/main/scala/io/turntabl/Transfers/ClientTO.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/Transfers/ClientTO.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/io.springfox/springfox-swagger2/2.9.0/21bbb4e2f8d0bf411587c8f317c69d6bbda3ffef/springfox-swagger2-2.9.0.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.12/bf5534e6fec3d665bd6419c952a929a8bdd4b591/scala-library-2.11.12.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.2.1.RELEASE/1e45b519cc3b1de0b1ecee6eed6397c19ede95a2/spring-boot-autoconfigure-2.2.1.RELEASE.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.1.RELEASE/3acb07ca9d6b968209a91aec6a7751f35bf22764/spring-boot-2.2.1.RELEASE.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /home/sammy/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.2.1.RELEASE/1d3e142adbdbd0810b19462fbd88d94cc51cce01/spring-context-5.2.1.RELEASE.jar
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+source dependencies:
+   src/main/scala/io/turntabl/DAO/ClientDAO.scala -> src/main/scala/io/turntabl/Transfers/ClientTO.scala
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> src/main/scala/io/turntabl/DAO/ClientDAO.scala
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> src/main/scala/io/turntabl/Transfers/ClientTO.scala
+external dependencies:
+class names:
+   src/main/scala/io/turntabl/DAO/ClientDAO.scala -> io.turntabl.DAO.ClientDAO
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> io.turntabl.Implementors.ClientDAOImpl
+   src/main/scala/io/turntabl/Implementors/ClientDAOImpl.scala -> io.turntabl.Implementors.ClientDAOImpl$
+   src/main/scala/io/turntabl/Model/Client.scala -> io.turntabl.Model.Client
+   src/main/scala/io/turntabl/Model/Client.scala -> io.turntabl.Model.Client$
+   src/main/scala/io/turntabl/Transfers/ClientTO.scala -> io.turntabl.Transfers.ClientTO
+   src/main/scala/io/turntabl/Transfers/ClientTO.scala -> io.turntabl.Transfers.ClientTO$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$
+   src/main/scala/io/turntabl/scalagettingstarted/MyApp.scala -> io.turntabl.scalagettingstarted.MyApp$delayedInit$body
